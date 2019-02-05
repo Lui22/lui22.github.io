@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1549362106,
+	"version": 1549381492,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,7 +13,10 @@
 		"images/sprite2-sheet0.png",
 		"images/sprite2-sheet1.png",
 		"images/sprite-sheet0.png",
-		"images/sprite3-sheet0.png",
+		"images/spritefont.png",
+		"images/spritefont2.png",
+		"media/classic_hurt.ogg",
+		"media/elevator music - so chill.m4a",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
